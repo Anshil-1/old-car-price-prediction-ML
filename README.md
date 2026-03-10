@@ -4,7 +4,7 @@
 
 This project predicts the **resale price of old cars** using **Supervised Machine Learning (Regression)** in Python. It demonstrates an **end-to-end ML workflow** including data loading, cleaning, exploratory data analysis (EDA), feature engineering, model training, evaluation, and final price prediction.
 
-This repository is **resume-ready** and suitable for **Data Analyst / ML Fresher** roles.
+
 
 ---
 
